@@ -1,2 +1,2 @@
 Git is VSC 
-Github 
+Github is open source 
